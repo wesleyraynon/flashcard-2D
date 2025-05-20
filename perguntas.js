@@ -6,5 +6,5 @@ criaCartao(
 
 criaCartao(
     'Inglês',
-    'como é dia de pagamento em inglês',
-    'pay day'
+    'como é dia de pagamento em inglês?',
+    'Pay Day'
