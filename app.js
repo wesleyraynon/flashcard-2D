@@ -7,12 +7,12 @@ function criaCartao(categoria, pergunta, resposta) {
         <div class="cartao__conteudo">
             <h3>Programação</h3>
             <div class="cartao__conteudo">
-                <h3>Programação</h3>
+                <h3>${categoria}</h3>
                 <div class="cartao__conteudo__pergunta">
-                    O que é JS ?
+                    <p>${pergunta}<p/>
                 </div>
                 <div class="cartao__conteudo__resposta">
-                    O que é JS ?
+                    <p>${resposta}<p/>
                 </div>
             `
             container.appendChild(cartao)

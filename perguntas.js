@@ -9,3 +9,8 @@ criaCartao(
     'como é dia de pagamento em inglês?',
     'Pay Day'
 )
+criaCartao(
+    'matematica'
+    'quanto vale pi'
+    '3,14'
+)
